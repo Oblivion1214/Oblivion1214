@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3czYzMweDE1dTJxMTM2NXAzM3kwbGRvODA3MmZ6ajllOHY1N3FmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/auNKlB8HFodib8y2Ll/giphy.gif" width="100px" />
-  <h1 align="center">¡Hola! Soy Saul 👋</h1>
+  <h1 align="center">¡Hola!👋</h1>
 </div>
 
 <div align="center">
