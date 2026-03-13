@@ -44,6 +44,10 @@
   <img src="https://skillicons.dev/icons?i=androidstudio" height="50" alt="androidstudio logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="Linux SERVER logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=windows" height="50" alt="Windows SERVER logo"  />
 </div>
 
 ---
