@@ -16,7 +16,7 @@
 
 - 🔭 Actualmente estoy trabajando en **Softnergy Solutions**.
 - 🌱 Estoy aprendiendo sobre **Azure**.
-- 💬 Pregúntame sobre **Java, React, Python, SQL...**
+- 💬 Pregúntame sobre **Java, React, Linux, SQL...**
 - 📫 Cómo contactarme: **sauljesus_12@hotmail.com**
 - ⚡ Dato curioso: **Me encanta la musica, actualmente estoy aprendiendo a tocar la guitarra y el teclado para poder componer musica propia**
 
